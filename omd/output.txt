@@ -1,0 +1,77 @@
+Processing process_callback_label  VWAP;TRD
+Processing symbol  DEMO_L1::A
+Processing tick descriptor
+DEMO_L1::A   2003-12-01 14:31:30.000045  
+28.4390625  
+Done  DEMO_L1::A
+Processing process_callback_label  Label
+Processing symbol  DEMO_L1::AA
+Processing process_callback_label  Label
+Processing symbol  DEMO_L1::AAA
+Processing tick descriptor
+DEMO_L1::AA   2003-12-01 14:30:24  
+33.0  
+74800.0  
+148865.0  
+40.0  
+0.0  
+0.0  
+0.0  
+DEMO_L1::AA   2003-12-01 14:30:33  
+33.0  
+1000.0  
+0.0  
+0.0  
+0.0  
+0.0  
+0.0  
+DEMO_L1::AA   2003-12-01 14:30:33  
+33.0  
+3200.0  
+0.0  
+0.0  
+0.0  
+0.0  
+0.0  
+DEMO_L1::AA   2003-12-01 14:30:47  
+33.0  
+5000.0  
+0.0  
+0.0  
+0.0  
+0.0  
+0.0  
+DEMO_L1::AA   2003-12-01 14:30:53  
+33.0  
+1000.0  
+0.0  
+0.0  
+0.0  
+0.0  
+0.0  
+DEMO_L1::AA   2003-12-01 14:30:53  
+33.0  
+3000.0  
+0.0  
+0.0  
+0.0  
+0.0  
+0.0  
+DEMO_L1::AA   2003-12-01 14:31:04  
+33.0  
+5000.0  
+0.0  
+0.0  
+0.0  
+0.0  
+0.0  
+DEMO_L1::AA   2003-12-01 14:31:05  
+33.0  
+3800.0  
+0.0  
+0.0  
+0.0  
+0.0  
+0.0  
+Done  DEMO_L1::AA
+Done  DEMO_L1::AAA
